@@ -4,9 +4,9 @@
 
 ## 这是什么？
 
-`proposal-writer` 是一个 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 的 Skill（技能插件），专门用于生成企业级项目实施方案。
+`proposal-writer` 是一个 [Claude Code] 的 Skill，专门用于生成企业级项目实施方案。
 
-它不是一个简单的文档模板填充工具，而是一个**完整的方案生成系统**——从需求采集、领域知识获取、逻辑框架匹配，到文风控制和 Docx 输出，全流程覆盖。
+它是一个**完整的方案生成系统**——从需求采集、领域知识获取、逻辑框架匹配，到文风控制和 Docx 输出，全流程覆盖。
 
 ## 核心能力
 
@@ -150,4 +150,4 @@ proposal-writer/
 
 ## 许可证
 
-MIT License
+GPLv3.0
