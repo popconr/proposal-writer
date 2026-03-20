@@ -53,11 +53,11 @@ git clone https://github.com/popconr/proposal-writer.git .claude/skills/proposal
 或用自然语言描述你的需求，例如：
 
 ```
-帮我写一个仓库管理优化实施方案
+帮我写一个管理优化实施方案
 ```
 
 ```
-我需要一个新员工入职培训体系建设方案
+我需要一个销售增量方案
 ```
 
 ### 3. 工作流程
