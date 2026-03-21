@@ -166,4 +166,5 @@ GPLv3.0
 ## 感谢
 
 https://linux.do/
+
 真诚地感谢L站对我的帮助，从Prompt到Skill，从Cursor到Vibe Coding，均是在L站得以认知与学习。L站如一盏指路明灯，让我这样一个普通人能够舟行在浪潮澎湃的AI大时代里，从惶恐到笃定，驶向未知，驶向光芒。
