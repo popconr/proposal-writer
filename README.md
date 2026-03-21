@@ -148,6 +148,17 @@ proposal-writer/
 
 框架是活的文档，随着使用不断丰富。
 
+## 方案示例
+
+以下是使用本 Skill 生成的方案预览（点击可查看大图）：
+
+![预览-第1页](./docs/images/preview-1.png)
+![预览-第2页](./docs/images/preview-2.png)
+![预览-第3页](./docs/images/preview-3.png)
+![预览-第4页](./docs/images/preview-4.png)
+![预览-第5页](./docs/images/preview-5.png)
+![预览-第6页](./docs/images/preview-6.png)
+
 ## 许可证
 
 GPLv3.0
