@@ -151,3 +151,6 @@ proposal-writer/
 ## 许可证
 
 GPLv3.0
+
+## 感谢
+https://linux.do/
